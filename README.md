@@ -1,1 +1,1 @@
-# python-for-da
+# Python for Data Analysis Exercises
